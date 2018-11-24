@@ -1,0 +1,41 @@
+body
+{
+    background:darkgrey;
+}
+
+#felso_hatter
+{
+    margin:auto;
+    background-color: silver;
+}
+
+#menu
+{
+    display: block;
+    padding: 10px 0px 5px 10px;
+    background: black;
+    position: sticky;
+    top: 0;
+    height: auto;
+}
+
+
+.menubutton
+{
+    margin-right: 10px;
+    text-decoration: none;
+    font-size: 26px;
+    color:whitesmoke;
+}
+
+.menubutton:hover
+{
+    color: cornsilk;
+    cursor:crosshair;
+}
+
+p
+{
+    font-family: "Comic Sans MS";
+    font-size: 18px;
+}
